@@ -3,6 +3,8 @@
 
 Keep checking the last updated time of all the files periodically, and if any file is updated, pull the latest changes.
 
+## LAST UPDATE
+Added Postman Collection of API's at 10:40 am
 
 ## Setup before Creating developer account 
 
